@@ -9,4 +9,6 @@ Cada dia ao seu lado é como uma linda flor que desabrocha, trazendo cor e perfu
 Quero que saiba que te amo mais do que palavras podem expressar. Você é a pessoa mais especial para mim, e estar ao seu lado é o meu maior presente.
 
 Com todo o meu amor,
-Eduardo
+(Seu nome)
+
+![Yasmim](img/yasmim.png)
