@@ -44,19 +44,15 @@ body{
 .greetings > span:nth-child(6){
     animation-delay: .5s;
 }
-
-
 .description{
     font-size: 1.5rem;
     margin-bottom: 20px;
 }
-
 .button a{
     text-decoration: none;
     font-size: 1rem;
     color: #111;
 }
-
 @media screen and (max-width:574px){
     .greetings{
         display: block;
@@ -67,7 +63,6 @@ body{
     .description{
         font-size: 1rem;
     }
-    
     .button a{
         font-size: .5rem;
     }
